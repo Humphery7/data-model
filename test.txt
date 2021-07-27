@@ -1,1 +1,1 @@
-this is an attempt to learn git commands and you
+this is an attempt to learn git commands and you, soft and nice
